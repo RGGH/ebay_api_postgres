@@ -1,4 +1,4 @@
 # EBAY API + POSTGRESQL
-## Coming soon : EBAY API project - accompanies upcoming YouTube video
+## Accompanying YouTube video https://youtu.be/Ma_eLdobmlM
 
 ![](https://github.com/RGGH/Misc/blob/master/ebayapi.png)
